@@ -1,0 +1,42 @@
+.hh1{
+    font-size: 1200%;
+    font-family: "cursive","Lucida Handwriting";
+    margin: 0;
+    border: double;
+}
+body{
+    background-color: #2f6d65;
+    
+}
+
+.hh2{
+    font-size: 600%;
+    font-family: "cursive","Lucida Calligraphy";
+    margin: 0;
+    padding-top: 0;
+    margin-bottom: 10%;
+}
+
+.b1 {
+    cursor: pointer;
+    border: none;
+    font-size: 250%;
+    background-color: #2f6d65;
+
+
+}
+
+h1{
+    font-size: 1200%;
+    font-family: "cursive","Lucida Handwriting";
+    margin: 0;
+}
+h2{
+    font-size: 600%;
+    font-family: "cursive","Lucida Calligraphy";
+    margin: 0;
+    padding-top: 0;
+    margin-bottom: 10%;
+    border: none;
+}
+
